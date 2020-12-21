@@ -5,21 +5,23 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2020/12/21/white_on_dark.svg"
   navigation:
   - link: "/"
     link_text: Home
   - link: "#swap"
-    link_text: Use cases
+    link_text: Platform
   - link: "#customize"
-    link_text: ''
+    link_text: Industries
   - link: "#responsive"
-    link_text: Responsive
+    link_text: Resources
   - link: "#blocks"
-    link_text: Blocks
+    link_text: Company
+  - link: ''
+    link_text: We're hiring!
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    button_text: Book a demo!
 - template: hero-banner-w-image
   block: hero-2
   slug: features
