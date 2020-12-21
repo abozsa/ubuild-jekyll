@@ -122,6 +122,15 @@ page_sections:
   navigation: []
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Switzerland
+  content: xorlab is a Swiss cybersecurity company providing specialized, machine-intelligent
+    defense against highly engineered, sophisticated and targeted email attacks. Founded
+    in 2015 and spun out of ETH’s Laboratory of Software Technology, xorlab has grown
+    to a team of 12 dedicated security professionals and passionate software engineers.
+    The company, with its ActiveGuard Defense Platform, now already protects more
+    than 50k mailboxes from leading financial service providers, hospitals and high-tech
+    industrial companies in Germany and Switzerland, and processes more than 1.5 million
+    emails per day.Unlike its competitors, xorlab empowers its customers to detect
+    and stop emerging attacks at first sight, resulting in a smaller risk of breach,
+    fewer incidents and lower operating cost overall.
 
 ---
