@@ -79,6 +79,21 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Simplified Architecture</strong>"
+  content: Combining machine-intelligent email analysis, cutting-edge sandboxing and
+    user incident response automation, ActiveGuard neatly integrates all aspects of
+    modern email defense into a single, scalable platform. The platform augments O365
+    defense controls, integrates with on-premise communication architectures and replaces
+    several, overlapping systems (gateway, sandbox, DLP). With all information being
+    accessible over API, ActiveGuard provides emerging threat information to downstream
+    systems in real-time.
+  slug: simplfiedarchitecture
+  media:
+    image: ''
+    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
