@@ -39,10 +39,17 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Communication Insights</strong>"
+  content: 'ActiveGuard adapts to your organization, learning the required context
+    to stop targeted and socially engineered attacks. This context consolidates communication
+    profiles of each member of your organization, maps internal, cross-functional
+    and external relationships and enables real-time third-party risk assessment.<em>How
+    this is applied in practice</em>: Phishing and other kinds of attacks reach employee
+    mailboxes because current defenses only look for characteristics that are cheap
+    for attackers to change (e.g. SPF) and don’t consider the context of the conversation.
+    Communication insights gathered from past conversations enable ActiveGuard to
+    know exactly if a given email was sent by a business partner or whether it merely
+    imitates such a trusted relationship, for example by using lookalike domains.'
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
