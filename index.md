@@ -25,12 +25,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Stop attacks at first sight
-  content: With our fantastic software
+  headline: We stop emerging cyberthreats
+  content: xorlab matches the risk profile of every email against the behavioral norms
+    of your organization in real-time to detect attacks at first sight. <br>
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Watch Video
+    button_text: Book a demo
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
