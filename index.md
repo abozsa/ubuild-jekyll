@@ -56,7 +56,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
+  slug: proactivedefense
   headline: "<strong>Proactive Defense</strong>"
   content: 'ActiveGuard matches the risk profile of every email against the behavioral
     norms of your organization in real-time. Any deviation from the norm is an anomaly
