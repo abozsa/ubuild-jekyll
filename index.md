@@ -8,11 +8,11 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
-    link_text: Platform
+    link_text: Home
   - link: "#swap"
     link_text: Use cases
   - link: "#customize"
-    link_text: Customize
+    link_text: ''
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
