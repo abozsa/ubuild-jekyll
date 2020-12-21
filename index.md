@@ -122,6 +122,6 @@ page_sections:
   navigation: []
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with ❤︎ in Switzerland
 
 ---
