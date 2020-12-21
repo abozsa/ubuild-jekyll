@@ -132,5 +132,6 @@ page_sections:
     emails per day.Unlike its competitors, xorlab empowers its customers to detect
     and stop emerging attacks at first sight, resulting in a smaller risk of breach,
     fewer incidents and lower operating cost overall.
+published: false
 
 ---
