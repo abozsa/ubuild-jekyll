@@ -45,5 +45,6 @@ fields:
   label: Media Alignment
   default: Right
 pages:
+- _posts/first try.md
 - first try.md
 - platform.md
