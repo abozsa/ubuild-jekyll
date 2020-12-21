@@ -12,3 +12,11 @@ media:
 published: false
 
 ---
+Monitoring of outbound email traffic and prevention of data leakage (misaddressed, non-compliant or exfiltrated) based on content classification and relationship scoring.  
+  
+![](/uploads/2020/12/21/both.PNG)
+
+* Contextual and content-based dynamic DLP policies safeguard against accidental data loss (Personally Identifiable Information, sensitive documents and data) and malicious exfiltration operations and help identifying compromised accounts
+* Audited self-service quarantine release
+* Customizable end-user notifications and digests
+* Detailed risk analysis reports
