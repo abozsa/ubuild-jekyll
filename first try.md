@@ -8,6 +8,10 @@ content: xorlab's Active Guard is the perfect platform for you!
 media:
   image: "/uploads/2020/12/21/f20f57cb-c58b-48d4-83cf-4c5d180fdb75.png"
   alt_text: ActiveGuard Defense Platform
+menu:
+  main:
+    weight: 3
+    title: ''
 published: false
 
 ---
