@@ -9,15 +9,15 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#swap"
+  - link: "#platform"
     link_text: Platform
-  - link: "#customize"
+  - link: "#industries"
     link_text: Industries
-  - link: "#responsive"
+  - link: "#resources"
     link_text: Resources
-  - link: "#blocks"
+  - link: "#company"
     link_text: Company
-  - link: ''
+  - link: "#hiring"
     link_text: We're hiring!
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
