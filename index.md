@@ -38,7 +38,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
+  slug: communicationinisghts
   headline: "<strong>Communication Insights</strong>"
   content: 'ActiveGuard adapts to your organization, learning the required context
     to stop targeted and socially engineered attacks. This context consolidates communication
