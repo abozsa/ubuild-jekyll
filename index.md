@@ -57,10 +57,25 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: "<strong>Proactive Defense</strong>"
+  content: 'ActiveGuard matches the risk profile of every email against the behavioral
+    norms of your organization in real-time. Any deviation from the norm is an anomaly
+    and triggers a series of configurable actions (e.g. Quarantine). Such an approach
+    identifies attacks at first sight, does not depend on any third-party threat intelligence
+    data (e.g. signatures) and thus provides truly proactive protection.<em>How this
+    is applied in practice to fight phishing</em>: Attackers that aim to phish your
+    employees need to embed links into their emails. Comparing link domains with an
+    organization’s communication history allows ActiveGuard to deduce relevancy and
+    identify links to phishing sites before they appear on any blacklist. Similarly,
+    ActiveGuard stopped all Emotet malware attacks against its customers.<em>How this
+    is applied in practice to fight malware</em>: The reason why Emotet was so successful
+    was the ability of attackers to attach macro-laden documents email conversations
+    that their victims had in the past. Emotet however could not fool ActiveGuard.
+    Static analysis discovered the dangerous macros in the documents and contextual
+    intelligence could show that the sender was neither known nor trusted and such
+    attack surface must not be allowed. The second wave of Emotet used encrypted archives
+    to bypass detection. ActiveGuard cracked these archives open and discovered the
+    attack.'
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
