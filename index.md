@@ -79,12 +79,12 @@ page_sections:
     target="_blank">Import this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/"
     target="_blank">our article</a> and create your own Blocks.</p></li><li><p>Add
     and customize the available Blocks and preview them as you go along.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
 - template: navigation-header
   block: header-1
   logo: ''
   navigation: []
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Canada
 
 ---
