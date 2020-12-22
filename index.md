@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#platform"
+  - link: platform.html
     link_text: Platform
   - link: "#industries"
     link_text: Industries
