@@ -32,3 +32,8 @@ fields:
   - type: text
     name: button_text
     label: Button Text
+- name: hiring-cta
+  type: field_group
+  config: {}
+  label: We're hiring
+  description: Hiring button
